@@ -1,3 +1,4 @@
 {
-  "wgm2m":"password"
+  "users" : [
+    {"username":"wgm2m", "password":"admin"}
 }
